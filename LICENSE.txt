@@ -1,0 +1,45 @@
+If you mean **universal license** as in a clear license you can publish with the pack, here’s a concise version. It applies only to content that HeyHazik/HDPL owns or has permission to license.
+
+# Hazik Development Projects (HDPL) Universal License
+
+**Version 1.0**
+
+Copyright © 2026 HeyHazik / Hazik Development Projects (HDPL). All rights reserved.
+
+This license covers the **Extreme PvPER Texture Pack by HeyHazik** and its original textures, GUI designs, crosshair, files, and other assets (“the Work”). By using the Work, you agree to these terms.
+
+## 1. Personal Use
+
+You may download and use the Work for personal, noncommercial gameplay.
+
+## 2. Sharing
+
+You may share links to the official download or creator page. You may not reupload, redistribute, sell, rent, sublicense, or bundle the Work or its files without written permission from HeyHazik/HDPL.
+
+## 3. Modifications and Derivatives
+
+You may not modify, adapt, translate, or create derivative works from the Work for public distribution without written permission. Private changes for your own use are allowed, provided you do not share the modified files.
+
+## 4. Credit and Attribution
+
+You may feature the Work in gameplay videos, livestreams, reviews, or showcases. Credit **HeyHazik / HDPL** and link to the official download or creator page when practical. You may not claim the Work or its assets as your own.
+
+## 5. Commercial Use
+
+Commercial use of the Work or its assets requires prior written permission from HeyHazik/HDPL. This includes selling, monetizing, or using the assets in a product, service, promotion, or paid bundle.
+
+## 6. Ownership and Third-Party Content
+
+The Work remains the property of its respective rights holders. This license covers only material that HeyHazik/HDPL owns or is authorized to license. Any third-party content remains subject to its own license and terms.
+
+## 7. No Warranty
+
+The Work is provided “as is,” without guarantees that it will work with every game version, device, or other modification. To the extent permitted by law, HeyHazik/HDPL disclaims liability for loss or damage arising from its use.
+
+## 8. Termination
+
+This license ends automatically if you violate its terms. Upon termination, you must stop using and sharing the Work and its files.
+
+## 9. Permission Requests
+
+For permissions beyond those granted here, contact **HeyHazik / HDPL** at hazikmir01@gmail.com / https://hazik.in.
